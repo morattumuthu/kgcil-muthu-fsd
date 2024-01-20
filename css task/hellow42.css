@@ -1,0 +1,11 @@
+h1::target-text{
+    
+    color:red ;
+}
+
+
+.hi::after{
+    content:"o world";
+    color: red;
+
+}

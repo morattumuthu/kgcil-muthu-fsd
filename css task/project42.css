@@ -1,0 +1,116 @@
+div{
+    background-color: aqua;
+    width:90%;
+    height:650px;
+    
+}
+header{
+    text-align: center;
+    font-size:xx-large;
+    color: blue;
+    padding-top:20px ;
+    font-weight: bolder;
+}
+.one{
+    border:2px;
+    background-color: white;
+    height:200px ;
+    width: 200px;
+    position: absolute;
+    top:100px;
+    left:200px ;
+
+    
+    
+}
+.two{ 
+    border:2px;
+    background-color: white;
+    height:100px ;
+    width: 200px;
+    position: absolute;
+    top:100px;
+    left:450px ;
+    text-align: center;
+    padding-bottom:50px;
+    padding-top:50px ;
+    font-size: 50px;
+}
+.three{
+    border:2px;
+    background-color:rgb(3, 58, 80);
+    height:100px ;
+    width: 200px;
+    position: absolute;
+    top:100px;
+    left:700px ;
+    text-align: center;
+    padding-bottom:50px;
+    padding-top:50px ;
+    font-size: 50px;
+}
+.four{
+    border:2px;
+    background-color:orange;
+    height:100px ;
+    width: 200px;
+    position: absolute;
+    top:100px;
+    left:950px ;
+    text-align: center;
+    padding-bottom:50px;
+    padding-top:50px ;
+    font-size: 50px;
+}
+.five{
+    border:2px;
+    background-color: white;
+    height:100px ;
+    width: 200px;
+    position: absolute;
+    top:400px;
+    left:200px ;
+    text-align: center;
+    padding-bottom:50px;
+    padding-top:50px ;
+    font-size: 35px;   
+}
+.six{
+    border:2px;
+    background-color:rgb(5, 65, 88);
+    height:100px ;
+    width: 200px;
+    position: absolute;
+    top:400px;
+    left:450px ;
+    text-align: center;
+    padding-bottom:50px;
+    padding-top:50px ;
+    font-size: 50px;
+}
+.seven{
+    border:2px;
+    background-color: aqua;
+    height:100px ;
+    width: 200px;
+    position: absolute;
+    top:400px;
+    left:700px ;
+    text-align: center;
+    padding-bottom:50px;
+    padding-top:50px ;
+    font-size: 45px;
+}
+.eight{
+    border:2px;
+    background-color: white;
+    height:100px ;
+    width: 200px;
+    position: absolute;
+    top:400px;
+    left:950px ;
+    text-align: center;
+    padding-bottom:50px;
+    padding-top:50px ;
+    font-size: 50px;
+}

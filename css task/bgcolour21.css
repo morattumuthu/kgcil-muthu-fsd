@@ -1,0 +1,16 @@
+header{
+    font-size:xx-large;
+    color: blue;
+    background-color: brown;
+
+}
+.first{
+    font-size: xx-large;
+    background-color: yellowgreen;
+    width: 50%;
+}
+footer{
+    background-color: green;
+    color:black;
+    font-size: xx-large;
+}

@@ -1,0 +1,13 @@
+body{
+    background-image: url(http://www.hdwallpaperspulse.com/wp-content/uploads/2019/02/11/beautiful-nature-Best-Scenery-Wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position: center;
+    height: 100%;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-variant: small-caps;
+    text-align: center;
+}

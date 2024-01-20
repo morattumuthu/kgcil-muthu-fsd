@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+table{
+    border: 1px;
+    background-color: black;
+    width: 50%;
+    height: 50%;
+    border-collapse: collapse;
+}
+td{
+    color: white;
+}
+tr:nth-child(odd){
+    background:gray;
+}
+button{
+    background-color:skyblue;
+}
+th{
+    text-align: start;
+}

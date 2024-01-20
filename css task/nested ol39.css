@@ -1,0 +1,31 @@
+.hi{
+    list-style-type:upper-roman;
+}
+.hi1{
+    list-style-type:upper-alpha;
+}
+.hi2{
+    list-style-type:upper-alpha;
+}
+.hi3{
+    list-style-type:lower-alpha;
+}
+.hi4{
+    list-style-type:lower-alpha;  
+}
+.hi5{
+    list-style-type:upper-alpha;
+}
+.hi6{
+    list-style-type:lower-alpha; 
+}
+.hi7{
+    list-style-type:upper-alpha;
+}
+.hi8{
+    list-style-type:upper-alpha;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+}

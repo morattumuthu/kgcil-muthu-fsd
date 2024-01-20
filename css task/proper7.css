@@ -1,0 +1,25 @@
+.pro{
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px burlywood;
+    color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+.pg{
+    background: rgb(255, 0, 221);
+}
+.pro2{
+    text-align: center;
+    text-transform:lowercase;
+    text-decoration: solid;
+    font-size: x-large;
+}
+.pro3{
+    text-align: center;
+    color: aqua;
+
+}

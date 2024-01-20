@@ -1,0 +1,41 @@
+table{
+    border: 1px;
+ height: 50%;
+ width: 50% ;
+ border-collapse:collapse ;
+}
+th{
+    text-align: start;
+}
+th{
+    background-color: white;
+}
+
+tr:nth-child(even){
+    background-color: gray;
+}
+.a{
+    background-color:green ;
+}
+.b{
+    background-color:orange;
+}
+.c{
+    background-color: red;
+}
+.d{
+    background-color: green;
+}
+.e{
+    background-color: red;
+}
+.f{
+    background-color:orange ;
+}
+.g{
+    background-color:orange ;
+
+}
+.h{
+    background-color: green;
+}

@@ -1,0 +1,62 @@
+header{
+    color:white;
+    font-size: 2rem;
+    text-align: center;
+
+
+}
+body{
+    width: 30%;
+    height: 50%;
+    
+   
+}
+.first{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    
+
+}
+.second{
+    text-align:left ;
+    color: white;
+    
+}
+.third{
+    text-align: justify;
+    font-size: x-large;
+    color: white;
+}
+.third::selection{
+    background-color: red;
+    color:white;
+}
+button{
+    height: 40px;
+    width: 100px;
+    font-size:xx-large;
+    background-color: orange;
+    
+}
+.forth{
+ text-align: center;
+}
+footer{
+    text-decoration: underline;
+    text-align: center;
+    
+}
+
+footer:hover{
+    color:white;
+}
+body{
+    background-image: url(https://www.pcclean.io/wp-content/gallery/book-hd-wallpapers/697523.jpg);
+    background-repeat: no-repeat;
+    background-size:35% 78%;
+}
+button:focus{
+    background-color: blue;
+}
+
