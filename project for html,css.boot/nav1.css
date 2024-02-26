@@ -1,0 +1,80 @@
+
+.got{
+    padding: 0;
+    margin: 0;
+}
+.list.got{
+   
+    position: relative;
+}
+.anchor{
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    overflow: hidden;
+    display: block;
+    float: left;
+    text-decoration: none;
+    transition: width 0.5s;
+    box-sizing: border-box;
+
+}
+.anchor:hover{
+    width: 120px;
+   color: white;
+}
+.fac:hover{
+    background: #3b5998;
+}
+.twi:hover{
+    background-color: #aab8c2;
+    }
+.dri:hover{
+    background-color: #c32361;
+}
+.git:hover{
+    background-color: #5181b8;
+}
+.pin:hover{
+    background-color: #bd081c;
+}
+.ins:hover{
+    background-color: #7232bd;
+}
+.hov:hover{
+    background-color: gray;
+}
+.bi:hover{
+    color: orange;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+  
+  .dropdown>.dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+      pointer-events: none;
+  }
+  #org:hover{
+    color: orange;
+    
+  }
+
+.why:hover,#or:hover{
+    background-color: #F18052;
+    opacity:.9 ;
+}
+#color:hover{
+    color: #F18052;
+}
+#co:hover{
+color: black;
+    opacity: .7;
+}
+.fw-bolder:hover{
+    color:#F18052;
+
+}
+
